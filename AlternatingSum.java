@@ -1,5 +1,4 @@
 import java.util.Scanner;
-
 public class AlternatingSum {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
